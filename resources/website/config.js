@@ -1,0 +1,4 @@
+window.COFFEE_CONFIG = {
+	API_GW_BASE_URL_STR: "<FMI_1>", 
+	COGNITO_LOGIN_BASE_URL_STR: null
+};

@@ -1,0 +1,34 @@
+{
+   "user_item_arr": [
+      {
+         "user_name_str": "eliangarcia",
+         "password": ["eliangarcia1!"],
+         "membership_id_arr": ["m003", "m005"],
+         "membership_name_arr": ["gold", "vip"]
+      },
+      {
+         "user_name_str": "carlosperez",
+         "password": ["carlosperez2!"],
+         "membership_id_arr": ["m002", "m004"],
+         "membership_name_arr": ["silver", "platinum"]
+      },
+      {
+         "user_name_str": "anamaria",
+         "password": ["anamaria3!"],
+         "membership_id_arr": ["m001", "m006"],
+         "membership_name_arr": ["bronze", "daily"]
+      },
+      {
+         "user_name_str": "juanramirez",
+         "password": ["juanramirez4!"],
+         "membership_id_arr": ["m003", "m002"],
+         "membership_name_arr": ["gold", "silver"]
+      },
+      {
+         "user_name_str": "marialopez",
+         "password": ["marialopez5!"],
+         "membership_id_arr": ["m004", "m005"],
+         "membership_name_arr": ["platinum", "vip"]
+      }
+   ]
+}

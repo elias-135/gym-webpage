@@ -1,0 +1,45 @@
+{
+   "membership_item_arr": [{
+       "membership_name_str": "bronze",
+       "membership_id_str": "m001",
+       "price_in_cents_int": 1999,
+       "description_str":"Acceso a equipo básico y clases grupales limitadas.",
+       "special_int": 0,
+       "tag_str_arr": []
+      },{
+       "membership_name_str": "silver",
+       "membership_id_str": "m002",
+       "price_in_cents_int": 3999,
+       "description_str": "Incluye acceso a todas las áreas y clases grupales ilimitadas.",
+       "special_int": 1,
+       "tag_str_arr": ["popular","limitado"]
+      },{
+       "membership_name_str": "gold",
+       "membership_id_str": "m003",
+       "price_in_cents_int": 5999,
+       "description_str": "Acceso completo, asesorías personalizadas y sauna.",
+       "special_int": 1,
+       "tag_str_arr": ["popular"]
+      },{
+       "membership_name_str": "platinum",
+       "membership_id_str": "m004",
+       "price_in_cents_int": 7999,
+       "description_str": "Todos los beneficios Gold + Entrenador personal.",
+       "special_int": 1,
+       "tag_str_arr": ["limitado"]
+      },{
+       "membership_name_str": "vip",
+       "membership_id_str": "m005",
+       "price_in_cents_int": 9999,
+       "description_str": "Servicio personalizado, acceso exclusivo y eventos especiales.",
+       "special_int": 1,
+       "tag_str_arr": ["limitado", "exclusivo"]
+      },{
+       "membership_name_str": "daily",
+       "membership_id_str": "m006",
+       "price_in_cents_int": 499,
+       "description_str": "Acceso por un día a las instalaciones.",
+       "special_int": 0,
+       "tag_str_arr": ["popular"]
+      }]
+   }

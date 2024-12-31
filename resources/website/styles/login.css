@@ -1,0 +1,26 @@
+.login{
+    position: relative;
+    padding-bottom: 0;
+}
+.login__container{
+    width: 500px;
+}
+.login-h1{
+    font-size: 3rem;
+    font-weight: var(--font-black);
+    letter-spacing: 1.5px;
+    text-align: center;
+}
+form {
+    padding: 20px 30px;
+    border-radius: 8px;;
+    width: 1000px;
+}
+@media screen and (max-width:1920px){
+    .login__container{
+      width: 100%;
+    }
+    form{
+        width: 100%;
+    }
+  }
